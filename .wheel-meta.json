@@ -1,0 +1,19 @@
+{
+  "wheel_id": 341,
+  "structure": "umbrella",
+  "slug": "lenderdirect-com-103",
+  "project": "private-lenders-australia-comparison-12558063769ba0bde18d5a1e4c",
+  "parent_t1_ref": "lenderdirect-com-151",
+  "node_role": "feeder",
+  "money_target": "lenderdirect.com.au",
+  "primary_kw": "private lenders australia comparison",
+  "intended_url": "https://sites-e470-2.web.app/private-lenders-australia-comparison-12558063769ba0bde18d5a1e4c/",
+  "writeback_nonce": "1912dbfbdf9b59bd",
+  "links": [
+    {
+      "target_url": "http://private-lenders-australia-402fe1173083762d37046b1413194ac1e5d29.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "private lenders australia",
+      "rel": "follow"
+    }
+  ]
+}
